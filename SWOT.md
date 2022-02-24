@@ -21,6 +21,7 @@ Opportunities:
     -The push for more women/diversity in the tech industry is a good opportunity for me to get a foot in the door.
     -There are a lot of tech jobs available as it is an ever-growing field.
     -The connections we're making at CodeWorks with peers and the Codeworks staff, are great opportunities for networking later on. 
+    -I have family and friends who are developers and could provide opportunities to network or improve my skills.
 
 Threats:
 
